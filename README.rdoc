@@ -1,4 +1,4 @@
-__Project has moved to https://gitlab.com/greendevilapps/time_diff__
+== Project has moved to https://gitlab.com/greendevilapps/time_diff
 
 = time_diff 
 Gem which calculates the difference between two time
